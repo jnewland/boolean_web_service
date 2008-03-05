@@ -1,0 +1,7 @@
+--- 
+:author: Jesse Newland
+:version: "0.1"
+:name: boolean_web_service
+:summary: BooleanWebService(:isitchristmas) => false. Well, unless it's christmas. Then it'd be true.
+:email: jnewland@gmail.com
+:homepage: http://github.com/jnewland/boolean_web_service
