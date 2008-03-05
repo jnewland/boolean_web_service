@@ -1,0 +1,11 @@
+boolean_web_service
+===================
+
+Oh yes I did.
+
+  >> require 'boolean_web_service'
+  => true
+  >> BooleanWebService(:israilsbroken)
+  => false
+  >> BooleanWebService('iskottkekottke.org')
+  => false
